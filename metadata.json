@@ -1,0 +1,6 @@
+{
+  "name": "IPP Analytics & Predictive AI",
+  "description": "Plataforma interactiva de analítica económica, ciencia de datos y machine learning para Índices de Precios al Productor (IPP / PPI) con terminal financiera cyberpunk, simuladores de choques, redes neuronales LSTM y playground econométrico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
